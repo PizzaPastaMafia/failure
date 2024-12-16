@@ -1,4 +1,4 @@
-#this is a project about failures
+# this is a project about failures
 i failed in many ways this semester, I want to turn these failures into setbacks
 I am in a rush against time. The choices I made from writing this come from pure necessity. I ~~want~~ need to sleep.
 I like financial crises and not only
@@ -87,11 +87,15 @@ Minimalism is not the end, but the starting point.
 Everything I learned in 20 years of my life and all the setbacks that I racked up in the last months, led me to write this final line.
 
 
-```mermaid
-graph TD;
-    Add content-->Read sentence and ask yourself;
-    Read sentence and ask yourself-->Remove content: What happens next?;
-    Read sentence and ask yourself-->Do you understand?: What does it mean?;
-    Do you understand?-->Add content: no;
-    Do you understand?-->Done: yes;
-```
+
+
+
+
+
+
+
+
+
+
+
+
