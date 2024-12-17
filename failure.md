@@ -3,8 +3,8 @@ i failed in many ways this semester, I want to turn these failures into setbacks
 I am in a rush against time. The choices I made from writing this come from pure necessity. I ~~want~~ need to sleep.
 I like financial crises and not only
 Mani Pulite, 2008 crisis, lava jato. Cases I studied for countless hours 
-a project about a detective that collects evidence on a corruption case. Suspect's IDs, governemt documentation, various evidence of different nature and marginalia like in House of Leaves. that's how you were supposed to learn the story
-I started to work on it I realized it was not feasable. Too much work
+a project about a detective that collects evidence on a corruption case. Suspect's IDs, government documentation, various evidence of different nature and marginalia like in House of Leaves. that's how you were supposed to learn the story
+I started to work on it I realized it was not feasible. Too much work
 No more top down design. start small and let complexity emerge.
 Modularity allows you to think in minimal terms. Add modules to add complexity -> modular book
 Talking Heads used a technique to make a "groove based" music: rhythm first
@@ -12,7 +12,7 @@ They had a very layered sound by making jam sessions and sampled some sequences 
 I wanted the reader to be obsessed and hypnotized by my book, like I am when I listen to their songs
 No cover on my book, there is no start or end in modularity but everything is connected
 Ring binding allows for infinite possibilities, way more than swiss or glue. Quick changes, economic and minimal. As long as there is a hole, it can be part of the book. A truly hackerable binding
-David Byrne, singer of Talking Heads, left the lyrics for last thing: he sung nonsense that fit the music and eventualy substituted into something that made sense. He calls it emergent storywritig and the music composition? modular music
+David Byrne, singer of Talking Heads, left the lyrics for last thing: he sung nonsense that fit the music and eventually substituted into something that made sense. He calls it emergent storytelling and the music composition? modular music
 Everything that has the word "Emergent" and modular in it has my immediate attention. Two of my obsessions.
 Done manifesto:"if you wait more than a week to get an idea done abandon it"
 "In two weeks I will have the basis for my book ready, then, it will all be downhill" I said. Two week passed, I was empty handed
