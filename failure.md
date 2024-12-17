@@ -19,7 +19,7 @@ Done manifesto:"if you wait more than a week to get an idea done abandon it"
 I didn't totally abandon it, I'd say transformed.
 Moto Perpetuo, the three minute arpeggio in King Crimson' song "Fracture", also the name of my project
 **image of moto perpetuo page**
-Started as placeholder, became the basis for the projet.
+Started as placeholder, became the basis for the project.
 I essentially copied what King Crimson did in the song Discipline. Go listen to it
 Moto represent Robert Fripp guitar, Perpetuo Adrian Belew's
 
@@ -38,14 +38,17 @@ Moto represent Robert Fripp guitar, Perpetuo Adrian Belew's
 
 Discipline works for the tension made from the interlocking of the two guitars with different time signatures
 my attempt was to make a story not with characters, plot or events, just tension
-Each "moto" or "perpetuo" represent a note that Fripp and Belew play. There are hundreds if not thousands of notes played in Discipline but with a simple script I wrote I programmed all the time signatures and in seconds I can design dozens of pages in seconds
+Each "moto" or "perpetuo" represent a note that Fripp and Belew play. There are hundreds if not thousands of notes played in Discipline but with a simple script I wrote, I programmed all the time signatures and in seconds I can design dozens of pages in seconds
 
 How time signatures work:
 note that the groupings of notes can be changed within the tempo. this is a tecnique King Crimson uses to add texture and tension
+
 4/4
 ...0
+
 5/8
 .0 ..0 
+
 9/8
 .0 .0 .0 ..0
 
