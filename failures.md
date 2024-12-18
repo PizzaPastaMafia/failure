@@ -1,0 +1,1 @@
+I define a failure as a condition or fact of not achieving my ends or [[plan|planned]] outcomes
