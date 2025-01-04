@@ -1,0 +1,5 @@
+**Oblique Strategies** (subtitled _**Over One Hundred Worthwhile Dilemmas**_) is a card-based method for promoting creativity jointly created by musician/artist [[Brian Eno]] and multimedia artist Peter Schmidt first published in 1975. Physically, it takes the form of a deck of 7-by-9-centimetre (2.8 in × 3.5 in) printed cards in a black box. Each card offers a challenging constraint intended to help artists (particularly musicians) break creative blocks by encouraging lateral thinking.
+
+un mio amico compiva gli anni a fine novembre, essendo
+
+anche se ufficialmente le carte sono costruite con un formato di 7x9 centimetri, ho deciso di stamparle in 10x7 centimetri per il fatto che la carta che ci vendono sono di 100x70 cm, quindi sarebbe stato più semplie dividerle. Per me lo status quo non è importante, è importante sfruttare al meglio le risorse e i materiali a disposizione. [[diy]] [[hacker]]

@@ -1,0 +1,1 @@
+an evolution of the [[Modular Book]] heavily influenced by [[King Crimson]]'s Discipline

@@ -1,0 +1,7 @@
+Legendary English prog rock band. I remember when I listened to 21st Century Schizoid Man for the first time: I knew my life had just changed. It was something I never heard before, the changing tempos, the frenetic drums, the playing with the volume, the distorted vocals. It felt so modern and timeless, I has a feeling that even if the song was released today, it would sound mindblowing. It was relesed in 1968. I once made a game in wich people must guess the year a song was released, the more close, the more points they get. I of course added this song in Everybody was wrong by at least 30 years.
+
+Another record they did was discipline. So simple yet so complex. So approachable to listen to yet so impossible to play.
+A musician has three disciplines, the discpline of the heands, and by extesions the whole body. head: organizing the mind and hold on the pattern, your attention is spread 16 bars ahed and before [[meditation]], that collapes on a single moment, this way one has a view of the whole and of the detail. the heart, the relationship with the music.
+
+it's clear that there is an interest in holism, the hands are part of whole: the body, the hand cannot function well if the entire [[system]] is not healthy and again to play music one must have a discipline on the body, heart and mind, one must commit entirely
+there is an entirely differrent perception of what music is about

@@ -1,0 +1,8 @@
+I became heavily interested at around april june 2023
+I was in a bit of an existential crissis and constantly asking myself what kind of man did i want to become, therefore a need to look at things emerged
+One day I made an internet research on books that could teach me more on postmodernism and I stumbleded upon [[Reality Hunger]].
+I felt like Postmodernism was a framework that allowed an enormous amount of freedom, as long as you know what you are doing. It's a framework that allows great freedom also in its interpretation: during the 60's Ulm hfg, the situationst, superstudio and other radical movements all lived under the same period and phlisophy.
+
+I realized that during several year i was in a process of "deconstruction", a deconstruction of my views on essentially everything: family, education, culture, my place in the world and values. everything was questioned, analyzed and changed. I found out the feelings that I was having during that phase neatly fitted in a postmodern way of thinking, it was the right concept/philosphy at the right time. One thing that left in me was insecurity, now that everything is deconstructed, what framework should i choose? I felt like a took a step back and took myself apart and analyzed everypiece, now there was the problem on how to rebuild it. should I rebuild it? 
+
+I came around [[rhizomoatic]] the idea that something doesn't have to be perfect, but it must be the best expression of itself, instead of asking "how should it be?", ask "what can it do?"
