@@ -1,0 +1,10 @@
+Sometimes one should learn to be like water. To be fluid, always going with the flow and never be afraid to change.
+In 1980, Talking Heads wanted to change the way the used to write music, instead of the frontman David Byrne of writing most of the music, they would now have a more collaborative effort. They would gather in a room and start jamming and then picked out snippets that sounded the best for them, essentially sampling themselves. Layer after layer of these very short and repetitive pieces of music, Byrne would come up with the Lyrics. He never knew where he wanted to go, he just sang nonsence and eventually change his sounds with something that actually made sense.
+
+He would call this approach a "modular way of making music" and "emergent storytelling".
+
+The book I wrote and designed for the exam of graphic design at my first semester was called "Emerge!", a 36 pages magazine that talked about some emergent system in nature and maths. I cringing a bit at all the small and big error, as I'm reading it back after one year, after all it was the absolute first book that I designed. I didn't know any better. but at the same time,  I'm also impressed by other things that I got right just by intuition.
+
+It was it, emergent storytelling after a rough start, this is what should've made from the start! What is the book equivalent of a modular book? I needed something flexible something simple, as simple as possible. To hell with monumental designs of entire nations, I'm gonna do something small, a page at time, something that I could call done in a couple of weeks and from there build all the complexity I want.
+
+I started disssecting everything Talking Heads played, I now know every song - how it works and how it's structured. I needed to know, to understand. How did they manage to make songs so groovy and original? You listen to only one layer of sound and one could ask himself: how is this supposed to be a song? But when everything comes along together, I can't sit still while listen to it.,
